@@ -1,3 +1,7 @@
+my first principle of agi
+
+i don't actually recommend u use this principle without fully understanding. it's just a reference at what's possible
+
 # The First Principle of AGI
 
 Any continuous task can be broken down into discrete, small tasks that an LLM can complete without error, achieved through multi-step execution.
