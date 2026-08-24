@@ -1,6 +1,8 @@
+
+
 my first principle of agi
 
-i don't actually recommend u use this principle without fully understanding. it's just a reference at what's possible
+i don't actually recommend u use this principle without fully understanding. it's just a reference to what's possible
 
 # The First Principle of AGI
 
